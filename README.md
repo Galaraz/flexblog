@@ -5,5 +5,5 @@ hotsite  100 % flexbox
 
 dicas : 
 
-guia : https://origamid.com/projetos/flexbox-guia-completo/
+guia : https://origamid.com/projetos/flexbox-guia-completo/ <br>
 verificar bugs: https://github.com/philipwalton/flexbugs
